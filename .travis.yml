@@ -1,0 +1,2 @@
+install: make dep
+language: c
